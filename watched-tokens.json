@@ -1,20 +1,6 @@
 [
-  {
-    "Address": "0x4F2C671bBCA289e678070075777d9237ED06708E"
-  },
-  {
-    "Address": "0x2Da.....eBA9d",
-    "StartCheckingAt": "2022-03-07 13:55",
-    "RemoveAfter": "2022-03-07 15:00"
-  },
-  {
-    "Address": "0xE77b99.........987",
-    "ParametersSet": "shitcoin",
-    "StartCheckingAt": "2022-03-07 20:55"
-  },
-  {
-    "Address": "0xAAA231.........4a6",
-    "ParametersSet": "shitcoin",
-    "RemoveAfter": "2022-03-13 18:00"
-  }
+  
+    "Address": "0xb3E3A1Ad0129B486A758f2317a384de7940cC135"
+ 
+  
 ]
